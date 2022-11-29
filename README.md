@@ -9,10 +9,10 @@ Tekrar 'esc' tuşuna basarak devam edebiliriz.
 
 ## Tuşlar:
 
- - w: Küreyi ileri hareket ettirir.
- - s: Küreyi geri hareket ettirir.
- - a: Küreyi sola hareket ettirir.
- - d: Küreyi sağa hareket ettirir.
+ > w: Küreyi ileri hareket ettirir.
+ > s: Küreyi geri hareket ettirir.
+ > a: Küreyi sola hareket ettirir.
+ > d: Küreyi sağa hareket ettirir.
 
 Oyun Linki: https://keremparlak0.itch.io/3d-object-collecting-game
 
