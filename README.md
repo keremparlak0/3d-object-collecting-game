@@ -5,18 +5,20 @@
 başlatılıyor.
 - Platformumuz sonlu bir yüzeye sahip. Bu yüzden kürenin hareket alanı sınırlı ve eğer platformdan düşecek olursa oyun tekrar başlatılıyor.
 - Oyunu durdurmak veya yeniden başlatmak istersek, 'esc' tuşuna basmamız yeterli. Bu bize içinde 'Devam Et' ve 'Yeniden Başlat' butonları bulunan bir duraklat menüsü açacak ve işlemlerimizi buradan gerçekleştirebiliriz.
-Tekrar 'esc' tuşuna basarak devam edebiliriz.
+Tekrar 'esc' tuşuna basarak devam edebiliriz.(Oyuna başlamadan oyun ekranına mause'un sol tuşuyla tıklamamız gerekiyor.)
 
-## Tuşlar:
+### Tuşlar:
 
  > w: Küreyi ileri hareket ettirir.
  > s: Küreyi geri hareket ettirir.
  > a: Küreyi sola hareket ettirir.
  > d: Küreyi sağa hareket ettirir.
 
-Oyun Linki: https://keremparlak0.itch.io/3d-object-collecting-game
+![alt text](https://i.hizliresim.com/9oxdewb.png)
 
-## Kazandırdığım mekanikler:
+## [Oyun Linki:](https://keremparlak0.itch.io/3d-object-collecting-game)
+
+### Kazandırdığım mekanikler:
 
 - Oyuncuya odaklı kamera takibi,
 - Oyuncunun nesnelere çarptınktan sonra nesnelerin kaybolması ve bu bilginin tutulması,
@@ -24,8 +26,14 @@ Oyun Linki: https://keremparlak0.itch.io/3d-object-collecting-game
 - Pause Menu yapımı,
 - Yasaklı kutuların eklenmesi ve sayacın, 0'ın altına düşmesi durumunda oyunun yeniden başlatılmasıdır.
 
-## Script'ler içerisinde yazdığım kısımlar:
+### Script'ler içerisinde yazdığım kısımlar:
 
 - MenuControl.cs ve cameraFollow.cs scriptleri kendim oluşturdum.
 - oyuncu_script.cs içerisinde bulunan tüm çarpmaları kontrol eden, kaydeden ve ekrana yazdırılmasını sağlayan OnCollisionEnter ve diğer gerekli kısımları yazdım.
 - kutucuk_script.cs içerisine de kontrol yapan OnCollisionEnter fonksiyonunu ve yasaklı kutuyu oluşturmak için gerekli kısımları ekledim.
+
+### Ekip arkadaşım Recep Onur OKAN'ın Projeye Kazandırdıkları:
+- Oyuncunun kontrol mekaniklerini ayarlama,
+- Rastgele kutuluarın oluşturulmasıyla ilgili kodlar,
+- Sahne ve platform oluşturma ekip arkadaşımın projeye genel hatlarıyla kazandırdıklarıdır.
+
