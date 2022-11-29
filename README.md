@@ -16,7 +16,7 @@ Tekrar 'esc' tuşuna basarak devam edebiliriz.(Oyuna başlamadan oyun ekranına 
 
 ![alt text](https://i.hizliresim.com/9oxdewb.png)
 
-## [Oyun Linki:](https://keremparlak0.itch.io/3d-object-collecting-game)
+## [Oyunu oynamak için tıklayınız...](https://keremparlak0.itch.io/3d-object-collecting-game)
 
 ### Kazandırdığım mekanikler:
 
