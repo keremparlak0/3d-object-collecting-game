@@ -1,4 +1,4 @@
-Oynanış:
+#Oynanış:
 
 - Karakterimiz bir küre. Küre bir platforma iniyor ve indiği yüzeye -rastgele konumlarda- kutucuklar iniyor. İki tür kutucuk iniyor; birisi puan toplamamıza yarayan sarı kutucuklar,
  diğeri ise toplamamızın yasak olduğu kırmızı kutucuklar. Sarı kutucuk bize +1 puan sağlarken, kırmızı kutucuklar 1 puan düşürüyor. Eğer puanımız 0'ın altına düşecek olursa oyun tekrardan
